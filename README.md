@@ -1,0 +1,2 @@
+# structured_streaming_guide_chinese
+Spark Structured Streaming编程指南文档汉化
